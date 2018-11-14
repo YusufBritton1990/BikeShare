@@ -1,5 +1,5 @@
 # BikeShare
-Using Python's Pandas and Numpy libraries, made an interative guide exploring bike share data from 3 major cities.
+Using Python's Pandas and Numpy libraries, made an interactive guide exploring bike share data from 3 major cities.
 The data is requests information about the first 6 months of 2017.
 
 ## The Data
