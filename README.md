@@ -1,10 +1,10 @@
 # BikeShare
 Using Python's Pandas and Numpy libraries, made an interative guide exploring bike share data from 3 major cities.
-The data is requesting the first 6 months of 2017.
+The data is requests information about the first 6 months of 2017.
 
 ## The Data
-This data pull from the three csv files saved in the zip files of this repository. 
-Based on the first question of the program, which will read in the requested csv file.
+This data pulls from three csv files saved in the zip files of this repository. 
+Based on the first question of the program, it will read in the city csv file into a data frame.
 
 ## The program
 1st Question: request city to view data
